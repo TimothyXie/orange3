@@ -66,6 +66,11 @@ Please ensure your commits pass code quality assurance by executing:
 [keyword args to the constructor]: http://pyqt.sourceforge.net/Docs/PyQt5/qt_properties.html
 
 
+Human interface guidelines 
+--------------------------
+
+Use title case for titles, push buttons, menu titles and options. Elsewhere, use sentence case.
+
 Tests
 -----
 [tests]: #tests
